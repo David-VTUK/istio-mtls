@@ -1,2 +1,2 @@
 # istio-mtls
-enabling mtls with istio bookinfo application
+Enabling mtls with istio bookinfo application
